@@ -9,6 +9,6 @@ Applied technologies:
 - HTML 5
 - CSS - Flexbox
 
-## Author
+
 Created by _Maxi-Franco_ &copy; 2023<br>
 * [LinkedIn](https://www.linkedin.com/in/maxi-franco/)
